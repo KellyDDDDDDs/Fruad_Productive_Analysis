@@ -8,17 +8,17 @@ While perhaps cumbersome and often embarrassing in some customer experiences, th
 ### Contents
     1 Exploratory data analysis  
     2 Get rid of redundant feature 
-    ● Apply PCA on each group feature individually
-    ● Select maximum size of unrelated features in one group
-    ● Replace the entire group with all feature averaged
+     ● Apply PCA on each group feature individually
+     ● Select maximum size of unrelated features in one group
+     ● Replace the entire group with all feature averaged
     3 Feature selection
-    ● Permutation importance
-    ● Adversarial validation 
-    ● Correlation analysis
-    ● Time consistency
+     ● Permutation importance
+     ● Adversarial validation 
+     ● Correlation analysis
+     ● Time consistency
     4 Create magic feature 
     5 Validation strategy
-    ● GroupKFold CV using month as a group
+     ● GroupKFold CV using month as a group
     6 Modeling 
-    ● XGBoost with AUC 0.947
+     ● XGBoost with AUC 0.947
     
