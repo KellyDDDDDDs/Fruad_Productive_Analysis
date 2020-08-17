@@ -7,7 +7,18 @@ Imagine standing at the check-out counter at the grocery store with a long line 
 While perhaps cumbersome and often embarrassing in some customer experiences, this fraud prevention system is actually saving consumers millions of dollars per year. The crucial part of the system is to benchmark machine learning models on a challenging large-scale dataset. The data comes from real-world e-commerce transactions and contains a wide range of features from device types to product features. If successful, I will improve the efficacy of fraudulent transaction alerts for millions of people around the world, helping hundreds of thousands of businesses reduce their fraud loss and increase their revenue and better customer experiences.
 ### Contents
     1 Exploratory data analysis  
-    2 Get rid of redundant feature and feature selection 
-    * Apply PCA on each group feature individually
-    * Select maximum size of unrelated features in one group
-    *   Replace the entire group with all feature averaged
+    2 Get rid of redundant feature 
+    ● Apply PCA on each group feature individually
+    ● Select maximum size of unrelated features in one group
+    ● Replace the entire group with all feature averaged
+    3 Feature selection
+    ● Permutation importance
+    ● Adversarial validation 
+    ● Correlation analysis
+    ● Time consistency
+    4 Create magic feature 
+    5 Validation strategy
+    ● GroupKFold CV using month as a group
+    6 Modeling 
+    ● XGBoost with AUC 0.947
+    
