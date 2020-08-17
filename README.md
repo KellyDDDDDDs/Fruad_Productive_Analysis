@@ -16,7 +16,7 @@ While perhaps cumbersome and often embarrassing in some customer experiences, th
      ● Adversarial validation 
      ● Correlation analysis
      ● Time consistency
-    4 Create magic feature 
+    4 Create magic features 
     5 Validation strategy
      ● GroupKFold CV using month as a group
     6 Modeling 
