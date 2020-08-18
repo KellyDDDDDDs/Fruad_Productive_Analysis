@@ -1,4 +1,5 @@
 # Fruad Prevention System
+![](https://www.google.com/search?q=fraud&rlz=1C5CHFA_enUS819US819&sxsrf=ALeKk01RRMmDb5bIkoK37Ac7JjDTbqez8Q:1597710042679&source=lnms&tbm=isch&sa=X&ved=2ahUKEwih2bDcvaPrAhVoCTQIHdwnBXQQ_AUoAXoECA0QAw&biw=1152&bih=605&dpr=2.5#imgrc=f_Pv3OtpHyJlZM)
 ### Why fruad detection?
 Fraud is a billion-dollar business and it is increasing every year. The PwC global economic crime survey of 2018[1] found that half (49 percent) of the 7,200 companies they surveyed had experienced fraud of some kind. This is an increase from the PwC 2016 study in which slightly more than a third of organizations surveyed (36%) had experienced economic crime.
 ### Embarrasing story ???
